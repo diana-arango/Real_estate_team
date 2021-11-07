@@ -14,3 +14,20 @@ Data Source: https://www.kaggle.com/austinreese/usa-housing-listings
 * 9 integer  
 * 6 string  
 * 3 url  
+
+### **Questions we hope to answer with data:**
+
+Does the location affect rental price?  
+
+    •	Which regions have the most expensive rental prices?  
+    •	Which regions have the most affordable rental prices?
+
+How does allowing pets impact rental price?
+
+How does building type affect rental price?
+
+How does square footage affect rental price?
+
+How does the number of bedrooms affect rental price?
+
+Ultimately, our goal is to be able to predict the rental price for given property given its features.  
