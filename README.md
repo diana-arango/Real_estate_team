@@ -31,3 +31,7 @@ How does square footage affect rental price?
 How does the number of bedrooms affect rental price?
 
 Ultimately, our goal is to be able to predict the rental price for given property given its features.  
+
+### **Communication Protocols**
+•	***Communication:*** Slack  
+•	***Meeting Times:*** Primarily Tuesday and Thursday evenings and Saturdays during office hours (additional online meetings via Zoom if required)
