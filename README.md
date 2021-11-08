@@ -14,21 +14,23 @@ The data source we chose was a CSV file from Kaggle which contains over 300,000 
 
 ## Data Source: 
 https://www.kaggle.com/austinreese/usa-housing-listings
-### 9 integer
-### 6 string
-### 3 url
+•	9 integer
+•	6 string
+•	3 url
+
+
 
 ## Questions we hope to answer with data:
- Does the location affect rental price?
- Which regions have the most expensive rental prices?
- Which regions have the most affordable rental prices?
- How does allowing pets impact rental price?
- How does building type affect rental price?
- How does square footage affect rental price?
- How does the number of bedrooms affect rental price?
+•	Does the location affect rental price?
+  o	Which regions have the most expensive rental prices?
+  o	Which regions have the most affordable rental prices?
+•	How does allowing pets impact rental price?
+•	How does building type affect rental price?
+•	How does square footage affect rental price?
+•	How does the number of bedrooms affect rental price?
 
 Ultimately, our goal is to be able to predict the rental price for a particular property given its features i.e. location, size, building type etc.). 
 
 ## Communication Protocols
-Communication: Slack
-Meeting Times: Tuesday and Thursday evenings; Saturday mornings 
+• Communication: Slack
+• Meeting Times: Tuesday and Thursday evenings; Saturday mornings 
