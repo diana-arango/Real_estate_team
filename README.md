@@ -14,9 +14,9 @@ The data source we chose was a CSV file from Kaggle which contains over 300,000 
 
 ## Data Source: 
 https://www.kaggle.com/austinreese/usa-housing-listings
-9 integer
-6 string
-3 url
+### 9 integer
+### 6 string
+### 3 url
 
 ## Questions we hope to answer with data:
  Does the location affect rental price?
