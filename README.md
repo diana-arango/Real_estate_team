@@ -1,4 +1,4 @@
-<<<<<<< sandrine-machineLearning
+
 Real_Estate_team
 Deliverable 1
 https://docs.google.com/presentation/d/19n1Mqoi8FIlJX6duPQcLP0VQPsX4vS8_13BX5ewKvW4/edit?usp=sharing
